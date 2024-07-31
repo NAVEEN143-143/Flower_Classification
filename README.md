@@ -1,1 +1,2 @@
 # Flower_Classification
+The flower classification project uses a Convolutional Neural Network (CNN) to classify different flower species. The dataset includes various flower images, which were preprocessed through resizing, normalization, and augmentation. Using TensorFlow and Keras, the model was trained with fine-tuned hyperparameters and evaluated for accuracy. The model achieved high accuracy, demonstrating the effectiveness of CNNs in distinguishing flower species.
